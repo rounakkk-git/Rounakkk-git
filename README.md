@@ -87,6 +87,38 @@
 🔄 Understanding full-stack application flow  
 🔐 Learning secure development basics  
 
+## ☁ Deployment & Cloud Exposure
+
+🚀 Familiar with deploying frontend and backend applications to cloud platforms  
+
+🔷 **Microsoft Azure**  
+📦 App deployment basics  
+🌐 Hosting frontend & backend services  
+⚙ Understanding cloud-based application flow  
+
+---
+
+## 🧰 Development Tools
+
+🧠 Tools I regularly use to build, test, debug, and collaborate effectively  
+
+🔧 **Git** – Version control & clean commit practices  
+🐙 **GitHub** – Repository management & collaboration  
+📬 **Postman** – API testing and request validation  
+🖥 **VS Code** – Daily development environment  
+🔍 **Browser DevTools** – Debugging UI & performance  
+
+---
+
+## 🤝 How I Work
+
+🤝 Collaborate closely with team members and stakeholders  
+🧠 Understand requirements before implementing solutions  
+🛠 Improve existing codebases instead of rewriting blindly  
+📦 Write code with long-term maintainability in mind  
+🎯 Focus on usability, clarity, and clean UI logic  
+
+
 ---
 
 ⭐ Check out my repositories and feel free to connect.
