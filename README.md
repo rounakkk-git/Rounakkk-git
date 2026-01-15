@@ -3,7 +3,7 @@
 💻 Full Stack Developer focused on building clean, responsive, and user-friendly web applications.  
 🎨 I enjoy turning UI ideas into functional products and understanding applications end-to-end.
 
-📍 Dhanbad, Jharkhand, India  
+📍 Delhi, India  
 📧 rounakinvertis@gmail.com  
 🔗 https://linkedin.com/in/rounak-narain-73848224b  
 
